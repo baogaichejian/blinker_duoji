@@ -3,9 +3,9 @@
  
 #include <Blinker.h>
  
-char auth[] = "78c240b40641";     //key
-char ssid[] = "LI-HOME";
-char pswd[] = "15047950321";
+char auth[] = "****";     //key
+char ssid[] = "****";
+char pswd[] = "****";
  
 // 新建组件对象
 BlinkerButton Button1("btn-max");   //位置1 按钮 数据键名
